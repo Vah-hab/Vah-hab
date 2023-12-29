@@ -1,16 +1,14 @@
-### Hi there 👋
+### Vah-hab
+Wellcome traveleller this is vahhab, come and commit brothers&sisters!!
 
-<!--
-**Vah-hab/Vah-hab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Education 📚:
 
-Here are some ideas to get you started:
+Bachelor's Degree: Computer Engineering, Akdeniz University
+Contact 📫: Antalya/Kepez/Doğan/952
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Discord:declarasyon
+Twitter:vahhabasukur
+Email: vahhab@outlook.com
+
+
+
